@@ -7,3 +7,6 @@ The MazeRunner program is pretty cool. The way it works is that both Mazes are p
 The starting point in each Maze is indicated by an "S"; likewise the Exit is indicated by an "E".
 
 The Runner will traverse through each maze until the find an Exit using both the Breadth First and Depth First Searches. The Runner always finds an Exit no matter how big or little the Maze is.
+
+
+This program was developed bty Garrett Head using the C programming language in Visual Studios 2013. -- 5/21/2015
